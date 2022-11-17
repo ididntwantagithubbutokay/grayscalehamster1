@@ -1,0 +1,118 @@
+body
+{
+background:url('https://cdn.discordapp.com/attachments/951456209112801373/1042628628736901140/hamster4-modified.png');
+background-size:100%;
+background-attachment:fixed;
+color:black;
+}
+
+h1, h2, h3{
+color:black!important;
+}
+
+td, td.right, td.left, .right_odd, .cave-grid {
+background:rgba(154, 154, 154,.6)!important;
+color:black!important;
+}
+
+th, td.top, td.bottom, div.left  {
+background:rgba(154, 154, 154,.7)!important;
+color:black!important;
+}
+
+td.left.b.center, td.right_cub {
+background:rgba(154, 154, 154,6)!important;
+color:#!important;
+}
+
+tr.right {background:none!important;}
+
+a:link, a:visited {
+color:black!important;transition:all ease 2s;
+}
+
+a:hover, a:active {
+color:white!important;transition:all ease 2s;
+}
+
+.sidebar, .navbar {
+background:rgba(154, 154, 154,.6)!important;
+color:black!important;
+}
+
+.navbar-default .navbar-nav > li > a {color:black!important;}
+.navbar-default .navbar-nav > li > a:hover {background:rgba(203, 203, 230,.6);transition:all ease 3s;}
+
+.xsmall {background:none;}
+
+.panel {box-shadow:none!important;border:none!important;background:#b4b4b4!important;}
+
+.chat_light {
+background:rgba(203, 203, 203,6)!important;
+color:black!important;
+}
+
+.chat_dark {
+background:rgba(164, 164, 164,.6)!important;
+color:white!important;
+}
+
+.topbar, .breadcrumb {background:rgba(164, 164, 164,.7)!important;color:black!important;}
+
+input[type="submit"], input[type="button"] {color:black;background:#9a9a9a;border:none;box-shadow;text-shadow:none;transition:all ease 1s;}
+input[type="submit"]:hover, input[type="button"]:hover {color:black;background:#9a9a9a;border:none;box-shadow;text-shadow:none;transition:all ease 1s;}
+
+.progress-bar-warning {background:#787878!important;}
+.progress-bar-danger {background:#787878!important;}
+.progress-bar-success {background:#787878!important;}
+.progress-bar {background:#787878!important;}
+.progress {background:#9f9f9f!important;}
+.progress div {color:black;}
+
+div#lion_image>div
+{
+background:url('http://static.lioden.com/images/dynamic/backgrounds/RaffleCoastBG.png')!important;
+}
+
+table.table {border:none!important;}
+
+input[type="text"]{color:black;}
+input[type="password"] {color:black;}
+textarea {color:black;}
+select {color:black;}
+
+div.container.main 
+{
+background:none;
+box-shadow:none;
+border:none;
+}
+
+div.col-md-9.col-xs-12 {background:none;border:none;}
+
+.item {border:none!important;}
+.item-footer {background:rgba(230, 230, 230,.6);color:black;}
+.item-header {background:rgba(230, 230, 230,.6);color:black;}
+
+a[href$="129306"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/zDKXXH0x/755-A6177-1-DC1-4-B6-E-8491-0-E0-D82032-D86.png')!important;
+}
+
+a[href$="129305"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/zDKXXH0x/755-A6177-1-DC1-4-B6-E-8491-0-E0-D82032-D86.png')!important;
+}
+
+a[href$="106385"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/zDKXXH0x/755-A6177-1-DC1-4-B6-E-8491-0-E0-D82032-D86.png')!important;
+}
+
+a[href$="unsorted.php?id=169369"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/rsXWbd9K/A0819-C9-F-983-E-45-A5-BD06-0-B4-C6-AA8129-F.png')!important;
+}
+
+a[href$="nesting.php"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/yx19BMwH/C872364-F-AEF6-4-CCA-A6-C2-9-EA0845-BCFDE.png')!important;
+}
+a[href$="lionoverview.php?id=169369"] > div.cave-grid > img {
+content: url('https://i.postimg.cc/HnDZ2kct/1-A205380-80-D2-44-F7-86-FF-DF7-C965-E399-E.png')!important;
+}
